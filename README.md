@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BadrKebrit
-- 👀 I’m interested in Intelligence Artificial and Blockchain.
-- 🌱 I’m currently learning PHP, HTML and CSS
+- 👀 I’m interested in Intelligence Artificial and Mathematics.
+- 🌱 I’m currently learning data science and web development!
 
 
 <!---
